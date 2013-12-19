@@ -1,5 +1,4 @@
-{
-   "subjects":[
+    [
       {
          "subject_id":"0",
          "subject_name":"Matematika",
@@ -47,4 +46,3 @@
          ]
       }
    ]
-}
