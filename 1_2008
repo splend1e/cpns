@@ -1,0 +1,118 @@
+{
+"subject_id":"0",
+"subject_name":"Matematika",
+"year":"2008",
+"total_set":10,
+"problems":[
+{
+"statement":"Tuan ahmad mempunyai rumah seharga Rp900.000.000,- besarnya pajak adalah 2/3 dari harga rumah tersebut. Jika tariff pajak adalah rp. 12.500,- per Ro 100.000,- berapakah besarnya pajak yang harus dibayar oleh tuan ahmad?",
+"answer": 0,
+"options":[
+"Rp 75.000,-",
+"Rp 750.000,-",
+"Rp 7.500.000,-",
+"Rp 75.000.000,-",
+"Rp 750.000.000,-"
+]
+},
+{
+"statement":"Sebuah gudang rokok menyimpan 250 dus rokok. 1 dus rokok terdiri atas 10 slop. 1 slop terdiri atas 12 bungkus rokok. Harga 1 bungkus rokok adalah rp. 7.000. dari gudang tersebu perusahaan harus menyisihkan 20% dari hasil penjualan rokok untuk membayar gaji karyawan, 30% untuk modal dan bahan baku, dan 10 % untuk biaya operasional. Berapakah keuntungan bersih (netto) perusahaan tersebut?",
+"answer": 3,
+"options":[
+"Rp 840.000.000",
+"Rp 84.000.000",
+"Rp 8.400.000",
+"Rp 840.000",
+"Rp 84.000"
+]
+},
+{
+"statement":"Suatu pekerjaan dilaksanakan dengan 3 tahapan dari 228 orang dengan pembagian tugas sebagai berikut: bagian pertama dilakukan oleh 1/3 dari jumlah keseluruhan, sedangkan bagian kedua dikerjakan 1/6 dari jumlah keseluruhan. Berapa orang yang melaksanakan tugas bagian ketiga?",
+"answer": 1,
+"options":[
+"114 orang",
+"112 orang",
+"121 orang",
+"116 orang",
+"124 orang"
+]
+},
+{
+"statement":"Pak didi membagikan mie instant kepada korban banjir sebanyak 45 kardus. Setiap kardus berisi sebanyak 35 buah mie instant, jumlah korban bencana banjir adalah 225 kk. Berapah buah mie instant yang dperoleh setiap kk jika mie instant yang dibagikan oleh pak didi dibagi rata ?",
+"answer": 3,
+"options":[
+"3 buah",
+"5 buah",
+"7 buah",
+"9 buah",
+"11 buah"
+]
+},
+{
+"statement":"Ibu becce membagikan uang rp 625.000 kepada 5 anaknya. Setiap anak mendapat uang sama banyaknya. Kemudian, masing masing anak mendapatkan tamabahan rp 15.000 dari pamannya. Tiap anak memberikan rp 25.000 kepada temannya yang kuran mampu. Uang yang tesisa pada setiap anak adalah…",
+"answer": 3,
+"options":[
+"Rp 115.000",
+"Rp 117.500",
+"Rp 123.500",
+" Rp 132.500",
+"Rp 147.5000"
+]
+},
+{
+"statement":"Jarak rumah budi dari kantornya kira kira 1 ½ km. jika budi rata rata berjalan 4 ½ km setiap jam, berapa jam yang dibutuhkan untuk berjalan pulang pergi selama 6 hari?",
+"answer": 2,
+"options":[
+"4 jam",
+"6 jam",
+"4 1/2 jam",
+"24 jam",
+"1/3 jam"
+]
+},
+{
+"statement":"Sebuah lembaran seng mempunyai lebar 4 2/3 kak, kemudian seng itu dipotong potong menjadi beberapa bagian, masing masing lebarnya 4 inci. Berapa potong yang dapat dieroleh dari lembaran seng tersebut jika 1 kaki = 30 m dan 1 inci = 2,5 cm.",
+"answer": 1,
+"options":[
+"16 potong",
+"12 potong",
+"23 potong",
+"24 potong",
+"14 potong"
+]
+},
+{
+"statement":"Sebuah kolam renang mempunyai panjang 15 m dengan lebar 6 m, dan tinggi 3 m, berapa cm volume kolam renang tersebut..",
+"answer": 1,
+"options":[
+"270 cm3",
+"2.700 cm3",
+"27.000 cm3",
+"24.000 cm3",
+"2.400 cm3"
+]
+},
+{
+"statement":"Jarak kota A ke kota B adalah 540 km. Amir mengendarai mobil dari kota A pukul 05.30 dan tiba di kota B pukul 12.30. Jika Amir istirahat 2 kali dalam perjalanan, dan lamanya dalam sekali istirahat 30 menit. Berapa kecepatan rata rata mobil Amir?",
+"answer": 2,
+"options":[
+"60 km/jam",
+"70 km/jam",
+"80 km/jam",
+"90 km/jam",
+"100 km/jam"
+]
+},
+{
+"statement":"Sebuah perusahaan yang sedang berkembang mempekerjakan 3 jumlah karyawan dari tahun lalu. Pada tahun lalu, jumlah pekerja adalah 75 orang dan yang berhenti 8 orang. Sedangkan yang masuk adalah 2 kali jumlah yang keluar. Berapakah jumlah karyawan perusahaan tersebut sekarang ?",
+"answer": 4,
+"options":[
+"150 orang",
+"178 orang",
+"235 orang",
+"249 orang",
+"256 orang"
+]
+}
+]
+}
